@@ -5,7 +5,7 @@ Oneclickmed is looking to incorporate an auction into their website that allows 
 browse, bid on, and purchase different medical products through the use of integrated auction API's, Java, 
 and PHP.
 
-TO-DO:
+<em>TO-DO:</em>
 
 *Spread information to team mates about current objectives
 
@@ -13,7 +13,7 @@ TO-DO:
 
 *Meet with product owner and create product backlog
 
-Team Members:
+<em>Team Members:</em>
 
 *Sarah Kuczyk
 
