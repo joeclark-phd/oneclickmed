@@ -6,19 +6,18 @@ browse, bid on, and purchase different medical products through the use of integ
 and PHP.
 
 <b>TO-DO:</b>
-
-*Spread information to team mates about current objectives
-
-*Network through the use of Whatsapp (download onto phones and contact Chase for more information)
-
-*Meet with product owner and create product backlog
-
+<ul>
+<li>Test the Wordpress auction site and collect notes for the next team meeting on functionality</li>
+<li>Setup and integrate social media sites into the new website</li>
+<li>Get specifications on customized data for the site</li>
+</ul>
 <b>Team Members:</b>
+<ul>
+<li>Sarah Kuczyk</li>
 
-*Sarah Kuczyk
+<li>Chase Flinn</li>
 
-*Chase Flinn
+<li>Charles Bostick</li>
 
-*Charles Bostick
-
-*Lingling Luong
+<li>Lingling Luong</li>
+</ul>
