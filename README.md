@@ -7,9 +7,7 @@ and PHP.
 
 <b>TO-DO:</b>
 <ul>
-<li>Test the Wordpress auction site and collect notes for the next team meeting on functionality</li>
-<li>Setup and integrate social media sites into the new website</li>
-<li>Get specifications on customized data for the site</li>
+<li>Please check our <a href="https://trello.com/b/PblBWdlH/oneclickmed" target="_blank">Trello</a> account for current information on our TODO list.</li>
 </ul>
 <b>Team Members:</b>
 <ul>
