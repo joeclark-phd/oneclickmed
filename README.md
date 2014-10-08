@@ -1,7 +1,7 @@
-oneclickmed
+OneClickMed
 ===========
 
-Oneclickmed is looking to incorporate an auction into their website that allows their users to 
+OneClickMed is looking to incorporate an auction into their website that allows their users to 
 browse, bid on, and purchase different medical products through the use of integrated auction API's, Java, 
 and PHP.
 
